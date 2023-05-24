@@ -11,10 +11,10 @@ body {
     grid-template-columns: repeat(16, 1fr);
     height: 90vh;
     width: 90vh;
-    gap: 1px;
+    gap: 0px;
 }
 
 .grid-item {
-    background: black;
+    /* background: black; */
     border: 1px solid black;
 }
